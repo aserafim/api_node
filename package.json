@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste de REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aserafim/api_node.git"
+  },
+  "author": "Alefe Serafim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aserafim/api_node/issues"
+  },
+  "homepage": "https://github.com/aserafim/api_node#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
